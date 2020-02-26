@@ -12,3 +12,8 @@
 	path = RLCO/Shipping
 	url = git@github.com:RLCO/Multti-RL.git
 	branch = Shipping
+
+[submodule "RLCO/Multti-RL"]
+	path = RLCO/Multti-RL
+	url = git@github.com:RLCO/Multti-RL.git
+	branch = Shipping
