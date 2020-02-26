@@ -7,3 +7,8 @@
 	path = RLCO/Muk
 	url = git@github.com:RLCO/Multti-RL.git
 	branch = Muk
+
+[submodule "RLCO/alfodoo"]
+	path = RLCO/alfodoo
+	url = git@github.com:RLCO/alfodoo.git
+	branch = 9.0-add_report_aeroo_cmis
