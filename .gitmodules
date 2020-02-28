@@ -22,3 +22,8 @@
 	path = RLJO/royalline-addons
 	url = git@github.com:RLJO/royalline-addons.git
 	branch = master
+
+[submodule "RLJO/logi"]
+	path = RLJO/logi
+	url = git@github.com:RLJO/logi.git
+	branch = master
