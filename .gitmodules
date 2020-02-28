@@ -27,3 +27,8 @@
 	path = RLJO/logi
 	url = git@github.com:RLJO/logi.git
 	branch = master
+
+[submodule "RLJO/logiq"]
+	path = RLJO/logiq
+	url = git@github.com:RLJO/logi.git
+	branch = master
