@@ -12,3 +12,8 @@
 	path = RLCO/alfodoo
 	url = git@github.com:RLCO/alfodoo.git
 	branch = 9.0-add_report_aeroo_cmis
+
+[submodule "RLJO/royal1"]
+	path = RLJO/royal1
+	url = git@github.com:RLJO/royalline-addons.git
+	branch = master
