@@ -12,3 +12,8 @@
 	path = RLJO/log2
 	url = git@github.com:RLJO/log2.git
 	branch = master
+
+[submodule "RLCO/logistic"]
+	path = RLCO/logistic
+	url = git@github.com:RLCO/logistic.git
+	branch = master
