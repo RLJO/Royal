@@ -7,3 +7,8 @@
 	path = RLCO/Muk
 	url = git@github.com:RLCO/Multti-RL.git
 	branch = Muk
+
+[submodule "RLJO/logistic"]
+	path = RLJO/logistic
+	url = git@github.com:RLJO/logistic.git
+	branch = master
