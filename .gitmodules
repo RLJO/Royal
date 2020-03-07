@@ -62,3 +62,8 @@
 	path = RLCO/Multti-RL9
 	url = git@github.com:RLCO/Multti-RL.git
 	branch = Other-Apps
+
+[submodule "OCA/account-reconcile"]
+	path = OCA/account-reconcile
+	url = git@github.com:OCA/account-reconcile.git
+	branch = 12.0
