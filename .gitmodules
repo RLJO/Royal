@@ -12,3 +12,8 @@
 	path = RLJO/logistic
 	url = git@github.com:RLJO/logistic.git
 	branch = master
+
+[submodule "RLCO/Multti-RL"]
+	path = RLCO/Multti-RL
+	url = git@github.com:RLCO/Multti-RL.git
+	branch = ADHOC
