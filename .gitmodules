@@ -42,3 +42,8 @@
 	path = RLCO/Multti-RL5
 	url = git@github.com:RLCO/Multti-RL.git
 	branch = transport-management-system
+
+[submodule "RLCO/Multti-RL6"]
+	path = RLCO/Multti-RL6
+	url = git@github.com:RLCO/Multti-RL.git
+	branch = akretion
