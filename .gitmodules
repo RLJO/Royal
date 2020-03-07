@@ -37,3 +37,8 @@
 	path = RLCO/Multti-RL4
 	url = git@github.com:RLCO/Multti-RL.git
 	branch = Shipping
+
+[submodule "RLCO/Multti-RL5"]
+	path = RLCO/Multti-RL5
+	url = git@github.com:RLCO/Multti-RL.git
+	branch = transport-management-system
