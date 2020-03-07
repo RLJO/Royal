@@ -27,3 +27,8 @@
 	path = RLCO/Multti-RL2
 	url = git@github.com:RLCO/Multti-RL.git
 	branch = ForgeFlow
+
+[submodule "RLCO/Multti-RL3"]
+	path = RLCO/Multti-RL3
+	url = git@github.com:RLCO/Multti-RL.git
+	branch = Odoo-Cae
