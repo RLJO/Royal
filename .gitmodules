@@ -57,3 +57,8 @@
 	path = RLCO/Multti-RL8
 	url = git@github.com:RLCO/Multti-RL.git
 	branch = shopinvader
+
+[submodule "RLCO/Multti-RL9"]
+	path = RLCO/Multti-RL9
+	url = git@github.com:RLCO/Multti-RL.git
+	branch = Other-Apps
