@@ -32,3 +32,8 @@
 	path = RLCO/Multti-RL3
 	url = git@github.com:RLCO/Multti-RL.git
 	branch = Odoo-Cae
+
+[submodule "RLCO/Multti-RL4"]
+	path = RLCO/Multti-RL4
+	url = git@github.com:RLCO/Multti-RL.git
+	branch = Shipping
