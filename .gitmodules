@@ -67,3 +67,8 @@
 	path = OCA/account-reconcile
 	url = git@github.com:OCA/account-reconcile.git
 	branch = 12.0
+
+[submodule "RLCO/care_center"]
+	path = RLCO/care_center
+	url = git@github.com:RLCO/care_center.git
+	branch = 12.0
