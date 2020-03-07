@@ -52,3 +52,8 @@
 	path = RLCO/Multti-RL7
 	url = git@github.com:RLCO/Multti-RL.git
 	branch = coopiteasy
+
+[submodule "RLCO/Multti-RL8"]
+	path = RLCO/Multti-RL8
+	url = git@github.com:RLCO/Multti-RL.git
+	branch = shopinvader
