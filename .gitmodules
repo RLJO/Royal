@@ -17,3 +17,8 @@
 	path = RLCO/Multti-RL
 	url = git@github.com:RLCO/Multti-RL.git
 	branch = ADHOC
+
+[submodule "RLCO/Multti-RL1"]
+	path = RLCO/Multti-RL1
+	url = git@github.com:RLCO/Multti-RL.git
+	branch = CybroOdoo
