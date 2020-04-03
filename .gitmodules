@@ -1,0 +1,4 @@
+[submodule "dbo-odoo/oxp_2019"]
+	path = dbo-odoo/oxp_2019
+	url = git@github.com:dbo-odoo/oxp_2019.git
+	branch = master
